@@ -1,0 +1,5 @@
+model
+wandb
+.ipynb_checkpoints
+accuracy_vs_epoch.png
+predictions.png
